@@ -10,6 +10,7 @@ No futuro queremos criar um script que leja a lista de musicas e reproduça elas
 
 ##### a banda mais bonita da cidade - oração - https://www.youtube.com/watch?v=QW0i1U4u0KE
 ##### Maroon 5 - Sugar - https://www.youtube.com/watch?v=09R8_2nJtjg
+##### Nirvana - Come as you are - https://www.youtube.com/watch?v=hfE2DXxTGyg
 ##### Santogold - Unstoppable - https://www.youtube.com/watch?v=IG_9609gVpU
 ##### Wachiturros - Tirate un paso - https://www.youtube.com/watch?v=p3q60Rn2BPY
 
