@@ -1,5 +1,11 @@
 ## Musicas aleatorias
 
+Repositorio criado para o estudo de GIT e conhecer novas musicas.
+A ideia é ter um lugar para treinar alguns comandos do git enquanto adiciona musicas que esta escutando na lista. 
+Para participar é so pedir permissão de acesso ou enviar um pull request.
+
+No futuro queremos criar um script que leja a lista de musicas e reproduça elas aleatoriamente.
+
 ### Agustin
 
 ##### a banda mais bonita da cidade - oração - https://www.youtube.com/watch?v=QW0i1U4u0KE
