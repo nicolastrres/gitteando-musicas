@@ -1,4 +1,4 @@
-## Musicas aleatorias
+﻿## Musicas aleatorias
 
 Repositorio criado para o estudo de GIT e conhecer novas musicas.
 A ideia é ter um lugar para treinar alguns comandos do git enquanto adiciona musicas que esta escutando na lista. 
@@ -19,6 +19,9 @@ No futuro queremos criar um script que leja a lista de musicas e reproduça elas
 ### Breno
 ##### Linkin Park - BURN IT DOWN - https://www.youtube.com/watch?v=dxytyRy-O1k
 ##### Linkin Park - Leave Out All The Rest - https://www.youtube.com/watch?v=yZIummTz9mM
+
+### Matias
+##### Linkin Park - BURN IT DOWN - https://www.youtube.com/watch?v=dxytyRy-O1k
 
 ### Tiago
 ##### OneRepublic - Counting Stars - https://www.youtube.com/watch?v=hT_nvWreIhg
